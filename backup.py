@@ -19,3 +19,4 @@ shutil.make_archive(backup_path, 'zip', current_dir)
 
 print(f"Backup created at {backup_path}.zip")
 
+
